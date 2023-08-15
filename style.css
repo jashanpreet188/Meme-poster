@@ -1,0 +1,26 @@
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&family=Noto+Sans+Vai&display=swap" rel="stylesheet"> */
+h1{
+    text-transform: uppercase;
+    font-family:'Libre Baskerville', serif ;
+    color: aliceblue;
+}
+img{
+    border:5px solid white;
+    width:100%
+}
+
+*{
+    background-color: black;
+}
+
+
+.Baap{
+    width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
